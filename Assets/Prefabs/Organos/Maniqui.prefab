@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1452713239063614186}
   - component: {fileID: 4328136743822480619}
   - component: {fileID: 4519525694242513427}
+  - component: {fileID: -3589626994547553699}
   m_Layer: 0
   m_Name: Maniqui
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &-3589626994547553699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5774268467400631904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0acfc80da93c6014e920c1659a1f3f79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  organID: 
